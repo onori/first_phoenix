@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DevPhoenix
 
 To start your Phoenix app:
@@ -18,6 +17,3 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: http://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
-=======
-# first_phoenix
->>>>>>> 57b92e1e360ec57d4f521922bb0be8e4c90396fa
