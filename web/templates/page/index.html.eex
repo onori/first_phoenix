@@ -1,6 +1,6 @@
 <div class="jumbotron">
-  <h2>Welcome to Phoenix!!!</h2>
-  <p class="lead">phoenix frameworkのテストだよ<br />does not compromise speed and maintainability.</p>
+  <h2>Welcome to Phoenix!</h2>
+  <p class="lead">phoenix framework<br />does not compromise speed and maintainability.</p>
 </div>
 
 <div class="row marketing">
