@@ -21,7 +21,8 @@ defmodule DevPhoenix.Router do
   end
 
   # Other scopes may use custom stacks.
-  # scope "/api", DevPhoenix do
-  #   pipe_through :api
-  # end
+  scope "/api", DevPhoenix do
+    pipe_through :api
+    get "/contacts", ContactController, :index
+  end
 end
