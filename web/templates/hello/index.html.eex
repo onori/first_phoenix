@@ -1,5 +1,0 @@
-<%# index.html.eex %>
-
-<div class="jumbotron">
-    <h2>Hello world, from Phoenix!</h2>
-</div>
